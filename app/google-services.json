@@ -15,6 +15,85 @@
       },
       "oauth_client": [
         {
+          "client_id": "890741801296-6tqnltciq7hb35lcti35qe257b6ug26s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hayrihabip.exchangenotifier",
+            "certificate_hash": "1415D2379F559C614F1210825F54FABBDAEB4587"
+          }
+        },
+        {
+          "client_id": "890741801296-i54b6bntab4ptov0vb81jdl4g7g0enoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hayrihabip.exchangenotifier",
+            "certificate_hash": "F4A1A18C59AB85847CC5B90D4E67CEE4939B4710"
+          }
+        },
+        {
+          "client_id": "890741801296-tgav5bhojq2inuefgudh9bempkoh4ei6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hayrihabip.exchangenotifier",
+            "certificate_hash": "FF8EDD347FA465ABE3530C433044DD591B2EF101"
+          }
+        },
+        {
+          "client_id": "890741801296-7n29mhfn20cfo9u2do8c6468vesifds9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDje4ZhL3dhqyWLMo2sz1CFbqq9TzHZhWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890741801296:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890741801296-825ihosaq9stpu3c0ljirulmn0l318cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "1415D2379F559C614F1210825F54FABBDAEB4587"
+          }
+        },
+        {
+          "client_id": "890741801296-m72mjerl26v6clee4l2kc76ehsl92te6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "F4A1A18C59AB85847CC5B90D4E67CEE4939B4710"
+          }
+        },
+        {
+          "client_id": "890741801296-d5ivcs94qbgcq2u25mie0gv5vbdgr7av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "FF8EDD347FA465ABE3530C433044DD591B2EF101"
+          }
+        },
+        {
           "client_id": "890741801296-7n29mhfn20cfo9u2do8c6468vesifds9.apps.googleusercontent.com",
           "client_type": 3
         }

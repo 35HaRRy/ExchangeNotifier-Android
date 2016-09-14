@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExchangeNotifier.iml" filepath="$PROJECT_DIR$/ExchangeNotifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExchangeNotifier-Android.iml" filepath="$PROJECT_DIR$/ExchangeNotifier-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hayrihabip/hayrihabip.iml" filepath="$PROJECT_DIR$/hayrihabip/hayrihabip.iml" />
     </modules>
   </component>
 </project>
